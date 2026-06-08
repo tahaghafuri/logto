@@ -1,9 +1,9 @@
 const input = {
   username: 'نام کاربری',
-  password: 'رمزعبور',
+  password: 'رمز عبور',
   email: 'ایمیل',
   phone_number: 'شماره تلفن',
-  confirm_password: 'تایید رمزعبور',
+  confirm_password: 'تأیید رمز عبور',
   search_region_code: 'جستجوی کد منطقه',
   backup_code: 'کد پشتیبان',
   code: 'کد',
