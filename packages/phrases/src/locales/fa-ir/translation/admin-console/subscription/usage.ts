@@ -91,7 +91,7 @@ const usage = {
   },
   saml_applications: {
     title: 'اپلیکیشن SAML',
-    tooltip: 'ویژگی افزونه با قیمت ${{price, number}} به ازای هر اپلیکیشن SAML در ماه. ',
+    tooltip: 'ویژگی افزونه با قیمت ${{price, number}} به ازای هر اپلیکیشن SAML در ماه.',
   },
   third_party_applications: {
     title: 'اپلیکیشن شخص ثالث',
